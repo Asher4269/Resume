@@ -1,13 +1,14 @@
 .mycolor {
-    color: rgb(128,0,0)  !important;
-
+  color: rgb(128, 0, 0) !important;
+}
+.myothercolor {
+  color: rgb(26, 25, 25);
 }
 
 .mybackgroundcolor {
-    background-color: rgb(128,0,0) !important;
+  background-color: rgb(128, 0, 0) !important;
 }
 
 .test {
-
-    text-decoration: underline;
+  text-decoration: underline;
 }
